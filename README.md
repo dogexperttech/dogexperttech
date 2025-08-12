@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @dogexpert90
-- 👀 I’m interested in Tech
+- 👀 I’m interested in Tech and Windows
+- 🎮 Gamer i am
+- 🌐 Hosting Minecraft servers, building websites
+- 
