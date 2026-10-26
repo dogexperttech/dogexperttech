@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @dogexperttech
-- 👀 I’m interested in Tech and Windows
-- 🎮 Gamer i am
-- 🌐 building websites
+👋 Hi, I’m @dogexpertcattech!
 
-- I am from youtube https://dogexperttech.github.io/go/youtube and sub me
+👀 I’m interested in Tech and Windows.
 
--Join my discord server https://dogexperttech.github.io/go/discord 
+🎮 I’m a gamer.
 
+🌐 I build websites.
 
-Check my website https://dogexperttech.github.io 
+🎥 Visit my YouTube channel: https://dogexperttech.github.io/go/youtube (don't forget to subscribe!)
+
+💬 Join my Discord server: https://dogexperttech.github.io/go/discord
+
+🌐 Check out my website: https://dogexperttech.github.io
